@@ -1,3 +1,3 @@
 # Enkapsulasi
 Beasiswa
-![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/Screenshot (147).png)
+![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/Screenshot(147).png)
