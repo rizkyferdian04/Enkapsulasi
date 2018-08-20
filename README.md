@@ -7,3 +7,7 @@ Beasiswa
 
 ![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/Beasiswa.JPG)
 
+Biodata
+
+![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/Biodata.JPG)
+
