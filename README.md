@@ -63,6 +63,20 @@ Biodata
 
 ![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/prakbiodata.JPG)
 
+Modul Lanjutan latihan 1
+
+![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/lanjutanlatihan1.JPG)
 
 
+Modul lanjutan latihan 2
+
+![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/lanjutanlatihan2.JPG)
+
+Modul lanjutan latihan 3
+
+![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/lanjutanlatihan3.JPG)
+
+Modul lanjutan latihan 4
+
+![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/lanjutanlatihan4.JPG)
 
