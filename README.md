@@ -17,7 +17,7 @@ Fungsi
 
 Hallo Telkom
 
-![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/hallo.JPG)
+![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/hello.JPG)
 
 Huruf N
 
