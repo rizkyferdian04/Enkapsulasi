@@ -59,5 +59,10 @@ Variable
 
 ![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/variable.JPG)
 
+Biodata
+
+![alt text](https://github.com/rizkyferdian04/Enkapsulasi/blob/master/prakbiodata.JPG)
+
+
 
 
